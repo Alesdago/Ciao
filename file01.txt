@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello world!
 
 fregrtgrtrhrth5th
+=======
+hello
+>>>>>>> parent of 6470bd6 (Update file01.txt)
